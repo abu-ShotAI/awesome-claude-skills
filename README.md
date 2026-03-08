@@ -127,7 +127,7 @@ Skills for working with complex file formats:
 | **[frontend-slides](https://github.com/zarazhangrui/frontend-slides)** | Create animation-rich HTML presentations — from scratch or by converting PowerPoint files |
 | **[Expo Skills](https://github.com/expo/skills)** | Official skills by the Expo team for developing Expo apps |
 
-_More community skills coming soon! Submit a PR to add your skill._
+| **[ai-video-remix](https://github.com/abu-ShotAI/ai-video-remix)** | AI-driven video remix generator using ShotAI semantic search + LLM planning + Remotion rendering to produce styled video compositions from a local video library |  _More community skills coming soon! Submit a PR to add your skill._
 
 ### Tools
 
